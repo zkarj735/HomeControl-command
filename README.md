@@ -1,5 +1,5 @@
 # About
-A zsh script to provide more convenient access to the URL scheme offered by the HomeControl app for Mac.
+A zsh script to provide more convenient access to the URL scheme offered by the [HomeControl app for Mac](https://apps.apple.com/nz/app/homecontrol-menu-for-homekit/id1547121417?mt=12).
 
 # Installation
 - Place the `hcc.sh` file in your home directory
