@@ -1,6 +1,10 @@
 # About
 A zsh script to provide more convenient access to the URL scheme offered by the HomeControl app for Mac.
 
+# Installation
+- Place the `hcc.sh` file in your home directory
+- `chmod +x hcc.sh`
+  
 # Usage
 `./hcc.sh <action> <device> <value>`
 
