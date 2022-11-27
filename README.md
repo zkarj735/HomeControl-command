@@ -3,7 +3,7 @@ A zsh script to provide more convenient access to the URL scheme offered by the 
 
 # Installation
 - Place the `hcc.sh` file in your home directory
-- Edit the second script to include your Authentication Token.
+- Edit the script to include your Authentication Token.
   - Open HomeControl Settings.
   - Click the **Automation...** button.
   - Copy the Authentication Token
